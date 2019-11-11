@@ -41,8 +41,8 @@ pour un fichier de 100Go
 
 - taille du fichier initial : 100 873 130 310
 - taille du fichier trié :
-- nombre de lignes :
-- nombre de chunk (200.000.000 octets): 
+- nombre de lignes : 615 194 600
+- nombre de chunk (200.000.000 octets): 505
 - temps de traitement :
 
 pour un fichier de 10Go
